@@ -37,7 +37,7 @@ const Explore = () => {
   }, [refreshListings]);
 
   // Get unique languages and categories for filters
-  const languages = listings.length > 0 
+  const languages: string[] = listings.length > 0 
     ? [...new Set(listings.map((listing) => listing.language))] 
     : [];
   
