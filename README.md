@@ -1,26 +1,37 @@
-# Welcome to your Lovable project
+# Welcome to codemarketplace-(build for dev doc bounty)
 
-## Project info
+## Project Info
 
-**URL**: https://lovable.dev/projects/c2f55912-891b-4851-be55-8e26fc387f76
+**URL**: [https://codemarketplace.vercel.app/](https://codemarketplace.vercel.app/)
 
-## How can I edit this code?
+This project is built using modern web development technologies to ensure a fast, responsive, and scalable application. Whether you're a developer looking to contribute or a user exploring its features, this guide will help you get started.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## About CodeMarketPlace
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c2f55912-891b-4851-be55-8e26fc387f76) and start prompting.
+CodeMarketPlace is an online platform designed to facilitate the discovery, purchase, and sale of high-quality code among developers. Here's an overview of its key features:
 
-Changes made via Lovable will be committed automatically to this repo.
+### Key Features:
 
-**Use your preferred IDE**
+- **Secure Transactions**: The platform ensures that all code purchases and sales are conducted securely, providing peace of mind for both buyers and sellers.
+- **Diverse Listings**: Developers can access a wide array of code listings across multiple languages and frameworks, catering to various project needs.
+- **Wallet Integration**: Users can connect their MetaMask wallets, enabling seamless and secure cryptocurrency transactions within the marketplace.
+- **Transparent Sales Tracking**: Both buyers and sellers have access to real-time tracking of their transactions, allowing for clear monitoring of sales, purchases, and earnings.
+- **Developer Community**: The platform fosters a vibrant community where developers can engage, share insights, and collaborate on projects.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### How It Works:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1. **Connect Wallet**: Users link their MetaMask wallets to authenticate and enable secure transactions on the platform.
+2. **Browse or List**: Developers can explore available code listings or upload their own creations, complete with details, previews, and pricing information.
+3. **Secure Transaction**: Purchases are made using ETH, with payments processed directly through the user's connected wallet, ensuring a streamlined and secure transaction process.
 
-Follow these steps:
+---
+
+## How Can I Edit This Code?
+
+There are several ways to edit and manage your application:
+
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -36,34 +47,28 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## What Technologies Are Used for This Project?
 
-**Use GitHub Codespaces**
+This project is built with the following technologies:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Vite**: A fast build tool and development server.
+- **TypeScript**: A strongly typed programming language that builds on JavaScript.
+- **React**: A JavaScript library for building user interfaces.
+- **shadcn-ui**: A component library for building accessible and customizable UI components.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Supabase**: A backend-as-a-service platform for building scalable applications.
 
-## What technologies are used for this project?
+---
 
-This project is built with .
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+## Contributing
 
-Simply open [Lovable](https://lovable.dev/projects/c2f55912-891b-4851-be55-8e26fc387f76) and click on Share -> Publish.
+We welcome contributions! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Ensure your code follows the project's coding standards.
 
-## I want to use a custom domain - is that possible?
+---
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
