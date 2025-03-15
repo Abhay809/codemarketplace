@@ -24,7 +24,7 @@ const Livedemo = () => {
           <div className="aspect-video border border-purple-400 bg-black rounded-t-lg overflow-hidden shadow-xl">
             <iframe
               className="w-full h-full"
-              src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+              src=""
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
