@@ -15,6 +15,7 @@ const Navbar = () => {
     { href: "/", label: "Home" },
     { href: "/explore", label: "Explore" },
     { href: "/create", label: "Sell" },
+    { href: "/videodemo", label: "Videodemo" },
   ];
 
   useEffect(() => {

@@ -7,6 +7,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { MarketplaceProvider } from "@/context/MarketplaceContext";
 import Index from "./pages/Index";
 import Explore from "./pages/Explore";
+import Livedemo from "./pages/Livedemo";
 import CreateListing from "./pages/CreateListing";
 import ListingDetail from "./pages/ListingDetail";
 import Profile from "./pages/Profile";
@@ -27,6 +28,7 @@ const App = () => (
             <Route path="/create" element={<CreateListing />} />
             <Route path="/listing/:id" element={<ListingDetail />} />
             <Route path="/profile" element={<Profile />} />
+            <Route path="/videodemo" element={<Livedemo />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </BrowserRouter>
