@@ -2,13 +2,8 @@
 
 ## Project Info
 
-**URL**: [https://codemarketplace.vercel.app/](https://codemarketplace.vercel.app/)
+**URL**: [https://codemarketplace-nine.vercel.app/](https://codemarketplace-nine.vercel.app/)
 
-## youtub Project live demo
-
-**URL**: [https://www.youtube.com/watch?v=Z5lhNN0Ke90](https://www.youtube.com/watch?v=Z5lhNN0Ke90)
-
-This project is built using modern web development technologies to ensure a fast, responsive, and scalable application. Whether you're a developer looking to contribute or a user exploring its features, this guide will help you get started.
 
 ---
 
@@ -22,35 +17,12 @@ CodeMarketPlace is an online platform designed to facilitate the discovery, purc
 - **Diverse Listings**: Developers can access a wide array of code listings across multiple languages and frameworks, catering to various project needs.
 - **Wallet Integration**: Users can connect their MetaMask wallets, enabling seamless and secure cryptocurrency transactions within the marketplace.
 - **Transparent Sales Tracking**: Both buyers and sellers have access to real-time tracking of their transactions, allowing for clear monitoring of sales, purchases, and earnings.
-- **Developer Community**: The platform fosters a vibrant community where developers can engage, share insights, and collaborate on projects.
 
 ### How It Works:
 
 1. **Connect Wallet**: Users link their MetaMask wallets to authenticate and enable secure transactions on the platform.
 2. **Browse or List**: Developers can explore available code listings or upload their own creations, complete with details, previews, and pricing information.
 3. **Secure Transaction**: Purchases are made using ETH, with payments processed directly through the user's connected wallet, ensuring a streamlined and secure transaction process.
-
----
-
-## How Can I Edit This Code?
-
-There are several ways to edit and manage your application:
-
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
 
 ## What Technologies Are Used for This Project?
 
